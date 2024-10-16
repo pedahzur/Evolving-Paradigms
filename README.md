@@ -51,7 +51,7 @@ The proposed research design aims to construct a comprehensive, dynamic, and fle
 
 The database consists of three primary, interrelated datasets: 1) Political Violence Events, 2) Perpetrators, and 3) Victims. Each dataset is designed to capture detailed information while allowing for flexibility and future expansion. Using version control software will enable academic experts to correct errors, add data and variables, and document all changes, promoting transparency and collaborative database improvement (LaFree & Gill, 2024, p. 3).
 
-##1. Political Violence Events Dataset
+## 1. Political Violence Events Dataset
 
 The Events dataset serves as the primary repository, capturing detailed information about each incident of political violence. Key variables include:
 
@@ -68,7 +68,7 @@ c) Escalation Indicator: This boolean field will indicate whether the event repr
 
 To quantify qualitative aspects of events, we will employ natural language processing (NLP) techniques to analyze event descriptions and assign numerical values to variables such as intensity, sophistication, and public impact. This approach builds on recent advancements in applying machine learning to terrorism research (Grossman & Pedahzur, 2020, p. 5).
 
-##2. Perpetrators Dataset
+## 2. Perpetrators Dataset
 
 The Perpetrators dataset will be linked to the Events dataset through a many-to-many relationship, allowing for the association of multiple perpetrators with multiple events. Key variables include:
 
@@ -89,7 +89,7 @@ c) Social Network Analysis: We will map the social connections of each perpetrat
 
 We will employ social network analysis metrics such as centrality measures, network density, and cluster coefficients to quantify social network characteristics. These metrics will provide numerical representations of the perpetrators' social embeddedness and the structure of their networks.
 
-##3. Victims Dataset
+## 3. Victims Dataset
 
 The Victims dataset will be linked to the Events dataset, allowing for the association of multiple victims with each event. Key variables include:
 
@@ -124,7 +124,7 @@ graph TD
 
 ```
 
-#Data Collection and Processing
+# Data Collection and Processing
 
 The data collection process will employ a multi-faceted approach to ensure comprehensive coverage while mitigating potential biases:
 
@@ -138,7 +138,7 @@ The data collection process will employ a multi-faceted approach to ensure compr
 
 5. Crowdsourced Contributions: We will develop a secure platform for vetted researchers to contribute additional data, corrections, or context to existing entries. This collaborative approach leverages the collective knowledge of the academic community while maintaining data integrity through a rigorous review process (Schuurman, 2020, p. 1016).
 
-#Version Control and Data Management
+# Version Control and Data Management
 
 To ensure transparency, traceability, and collaborative improvement of the database, we will implement a robust version control system:
 
@@ -161,3 +161,5 @@ Given the sensitive nature of the data, robust ethical guidelines and data prote
 3. Ethical Review Board: An independent ethical review board will oversee the project, ensuring compliance with ethical standards and addressing emerging ethical concerns (Grossman & Pedahzur, 2020, p. 9).
 
 4. Transparent Usage Policies: Clear guidelines will be established for the appropriate use of the database, including restrictions on using the data for profiling or predictive policing (Schuurman, 2020, p. 1019).
+
+# Bibliography
