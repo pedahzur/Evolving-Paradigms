@@ -1,3 +1,19 @@
+
+
+# Projects
+## 1. [Kan 7.10.360](https://www.710360.kan.org.il/)
+
+A virtual museum for documenting and commemorating the events of the October 7, 2023 massacre.
+
+The project was established to allow visitors an in-depth experience, get to know the human stories, commemorate the events of October 7, and preserve the memory.
+
+To establish the museum, a team of content people and investigators was formed who collected stories, videos, photos, sound clips, and correspondence in cooperation with the communities and settlements in the south, which Hamas terrorists invaded.
+
+The museum uses thousands of hours of photographed and recorded raw material collected in the archive since the outbreak of the war - articles, films, interviews, sketches, and reports.
+
+Alongside these are integrated video clips that have not yet been published, security photographs, unique recordings, and WhatsApp correspondence collected in a comprehensive investigation conducted by the investigators, especially for the project.
+
+
 # Evolving Paradigms in Political Violence Research
 
 ```mermaid
