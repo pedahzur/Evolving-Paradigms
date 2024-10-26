@@ -1,3 +1,19 @@
+
+
+
+
+
+
+
+# Fallen Victims dataset
+accessed October 26, 2024 at Swords of Iron: IDF Casualties. (n.d.). Retrieved October 26, 2024, from https://www.gov.il/en/pages/swords-of-iron-idf-casualties
+Using Claude AI 3.5 Sonnet (new).
+I pasted the October 7, 2023 data and provided the prompt:
+Please read this data carefully. Afterward, draw the following information and organize it in a table.
+Rank, Name (first and last), Age, of (location), Role, Unit
+
+
+
 # A Timeline of the attacks.
 [Minute by minute: this is how the events unfolded on October 7](https://www.mako.co.il/news-channel12?subChannelId=90dfe720e1ba1910VgnVCM200000650a10acRCRD&vcmid=2cb4b1503f262910VgnVCM200000650a10acRCRD)
 
